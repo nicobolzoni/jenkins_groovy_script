@@ -1,4 +1,4 @@
-def githubUrl = "https://github.com/m-goos/jenkins-jobdsl-seedrepo-example.git"
+def githubUrl = "https://github.com/nicobolzoni/jenkins_groovy_script.git"
 
 pipelineJob("Seed job 1") {
 definition {
